@@ -1,3 +1,3 @@
-# Gamgora - Moteur de jeu - Unreal Engine
+# Gamagora - Moteur de jeu - Unreal Engine
 
 Developed with Unreal Engine 4
