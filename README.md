@@ -1,3 +1,3 @@
-# Gamgora - Moteur de jeu - TP1
+# Gamgora - Moteur de jeu - Unreal Engine
 
 Developed with Unreal Engine 4
